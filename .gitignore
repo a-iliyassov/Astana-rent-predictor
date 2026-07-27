@@ -1,19 +1,19 @@
-# Данные — не коммитим (см. наш разбор: Git не для данных + приватность Krisha)
+# Data — never committed (Git is not for data + Krisha privacy)
 data/
 
-# Модели — промежуточные игнорим, финальную добавим вручную позже
+# Models — ignore intermediate ones, add the final one manually later
 models/
 
-# Python-мусор
+# Python cache
 __pycache__/
 *.pyc
 
-# Виртуальное окружение
+# Virtual environment
 venv/
 .venv/
 
-# Секреты
+# Secrets
 .env
 
-# Системные файлы macOS
+# macOS system files
 .DS_Store
